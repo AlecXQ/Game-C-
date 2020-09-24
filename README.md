@@ -1,2 +1,2 @@
-# Game-C-
+# C++ Game
 C++ game. You must guess the security code to scape from prison.
